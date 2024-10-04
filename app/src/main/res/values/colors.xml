@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F9956E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="goku">#FF4500</color>
+    <color name="goku_secondary">#FFD700</color>
+    <color name="gohan">#8B0000</color>
+    <color name="goten">#1E90FF</color>
+    <color name="vegeta">#00008B</color>
+    <color name="trunks">#4682B4</color>
+    <color name="piccolo">#32CD32</color>
+    <color name="roshi">#FF8C00</color>
+    <color name="tenshinhan">#F4A460</color>
+    <color name="krillin">#FFA500</color>
+    <color name="yamcha">#CD5C5C</color>
+</resources>

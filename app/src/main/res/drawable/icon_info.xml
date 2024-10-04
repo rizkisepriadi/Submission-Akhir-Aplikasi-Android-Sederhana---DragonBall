@@ -1,0 +1,11 @@
+<vector
+    android:height="24dp"
+    android:width="24dp"
+    android:viewportHeight="24"
+    android:viewportWidth="24"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@color/goku_secondary">
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M12,2l3.09,6.26L22,9.27l-5,4.87L18.18,22 12,18.89 5.82,22 7,14.14 2,9.27l6.91-1.01z"/>
+</vector>

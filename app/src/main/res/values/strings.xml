@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DragonBall Z</string>
+    <string name="desc">Son Goku (孫そん悟ご空くう Son Gokū), born Kakarot (カカロット Kakarotto), is a Saiyan raised on Earth and the main protagonist of the Dragon Ball series. He is the second born, as well as youngest son and child of Bardock and Gine, the husband of Chi-Chi, and the father of Gohan and Goten. Originally sent to Earth by his parents as an infant, Kakarot was adopted by Grandpa Gohan and renamed Son Goku</string>
+    <string name="colon">&#160; : &#160;</string>
+    <string name="form">Form</string>
+    <string name="race">Race</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="skill">Skills</string>
+    <string name="profile">Profile</string>
+    <string name="info">Info</string>
+    <string name="back">Back</string>
+    <string name="aboutme">Hallo, My name is Muhammad Rizki Sepriadi, i am Mobile development. Nice to meet you, you can check my social media: </string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="instragram">Instagram</string>
+    <string name="description">Description</string>
+    <string name="data">Data Character</string>
+    <string name="personality">Personality</string>
+    <string name="references">References</string>
+    <string name="about">About Me</string>
+    <string name="story">Results-driven Informatics college student specializing in web development. Demonstrated success in leading website develop ment projects. Skilled in React, Laravel, and design tools like Figma. Dicoding-certified in multiple web technologies, enthusiastic about applying theoretical knowledge to practical projects a nd staying abreast of industry trends</string>
+    <string name="email">muhammadrizkisepriadi@gmail.com</string>
+    <string name="nama">Muhammad Rizki Sepriadi</string>
+</resources>
